@@ -18,7 +18,7 @@ backends/imgui_impl_sdl.cpp \
 backends/imgui_impl_opengl3.cpp \
 -c
 
-emar rcs imgui-opengl3-sdl2.bc \
+emar rcs libimgui_opengl3_sdl2.bc \
 imgui.o \
 imgui_demo.o \
 imgui_draw.o \

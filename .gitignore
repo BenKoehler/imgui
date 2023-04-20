@@ -1,3 +1,7 @@
+libimgui_opengl3_sdl2.bc
+cmake-build-debug/
+cmake-build-release/
+
 ## OSX artifacts
 .DS_Store
 
